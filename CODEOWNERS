@@ -191,6 +191,8 @@ build.json @home-assistant/supervisor
 /tests/components/calendar/ @home-assistant/core
 /homeassistant/components/camera/ @home-assistant/core
 /tests/components/camera/ @home-assistant/core
+/homeassistant/components/caruna/ @larseggert
+/tests/components/caruna/ @larseggert
 /homeassistant/components/cast/ @emontnemery
 /tests/components/cast/ @emontnemery
 /homeassistant/components/cert_expiry/ @jjlawren

@@ -774,6 +774,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "caruna": {
+      "name": "Caruna",
+      "integration_type": "hub",
+      "config_flow": false,
+      "iot_class": "cloud_polling"
+    },
     "cert_expiry": {
       "integration_type": "hub",
       "config_flow": true,

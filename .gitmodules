@@ -1,0 +1,3 @@
+[submodule "homeassistant/components/caruna/pycaruna"]
+	path = homeassistant/components/caruna/pycaruna
+	url = https://github.com/kimmolinna/pycaruna

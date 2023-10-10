@@ -1,0 +1,13 @@
+{
+  "domain": "caruna",
+  "name": "Caruna",
+  "codeowners": ["@larseggert"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/caruna",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
